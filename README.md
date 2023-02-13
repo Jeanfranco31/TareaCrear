@@ -2,6 +2,7 @@
 
 Hola, mi nombre es Jean Intriago y este es mi sitio en GitHub Pages. Este sitio es una forma para compartir información sobre mí y mi trabajo con el mundo.
 
+(https://drive.google.com/file/d/1RlBvTMCZg2NaL0diMVzawmvpiAxV89qk/view?usp=drivesdk)
 
 ## Acerca de mí
 
